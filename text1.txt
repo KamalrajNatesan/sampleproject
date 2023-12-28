@@ -1,2 +1,2 @@
-This is text 1 file which is loaded in vs code
+This is text 1 file which is loaded
 
